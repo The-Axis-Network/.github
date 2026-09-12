@@ -9,12 +9,12 @@ Our work covers a range of areas, including networking, internet accessibility, 
 We believe in open technology, experimentation, and an accessible internet.
 
 🌍 What We Do
-🌐 Build networking and internet technologies
-🔓 Explore censorship-resistant and accessible communication
-🧪 Experiment with new protocols and ideas
-💻 Create open-source software and tools
-🛠️ Build infrastructure and web projects
-💡 Explore interesting ideas, even when they're unconventional
+- 🌐 Build networking and internet technologies
+- 🔓 Explore censorship-resistant and accessible communication
+- 🧪 Experiment with new protocols and ideas
+- 💻 Create open-source software and tools
+- 🛠️ Build infrastructure and web projects
+- 💡 Explore interesting ideas, even when they're unconventional
 
 We're not limited to any one type of project.
 
