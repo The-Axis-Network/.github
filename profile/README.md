@@ -1,57 +1,128 @@
-## About
+🌐 The Axis Network
+<p align="center"> <img src="assets/axis-banner.svg" alt="The Axis Network" width="850"> </p> <p align="center"> <strong>Building technology for a more open, accessible, and connected internet.</strong> </p> <p align="center"> <img src="https://img.shields.io/badge/Open%20Source-00d084?style=for-the-badge&logo=opensourceinitiative&logoColor=white"> <img src="https://img.shields.io/badge/Open%20Internet-00a8ff?style=for-the-badge"> <img src="https://img.shields.io/badge/Research%20%26%20Development-8b5cf6?style=for-the-badge"> </p>
+✦ Who We Are
 
-Axis Network builds simple, fast, and minimal interfaces that allow students to reach the open web. We focus on clean UI, reliable routing, backend performance, and tools that work inside restricted environments such as school networks. 🚀
+The Axis Network is an independent open-source technology group focused on building, experimenting with, and sharing software and infrastructure.
 
-We do not provide or store movies, games, ROMs, BIOS files, or any other copyrighted media. Our projects only connect users to external services that already exist publicly on the internet.
+Our interests span a wide range of areas — from networking and internet accessibility to developer tools, websites, protocols, experimental software, and whatever else we find interesting.
 
-## Technologies We Use
+We don't want to limit ourselves to a single technology or project.
 
-Axis Network develops both **frontends and backends** using modern proxy technologies:
+We build things. We experiment. We learn. We share.
 
-- Mercury Workshop backends ⚡  
-- Scramjet rewriting engine 🔧  
-- Ultraviolet service‑worker proxying 🌐  
-- Custom routing layers and access logic 🛠️  
-- Lightweight JS frontends for speed and simplicity 🖤  
+🌍 Our Mission
 
-These tools allow us to build reliable proxy systems without hosting or storing any media ourselves.
+We believe technology should be open, accessible, and built for people.
 
-## Features
+A major part of our work is exploring ways to make the internet more resilient to censorship and unnecessary restrictions. But that's only one part of what we do.
 
-- Proxy frontends and backends 🌐  
-- AI study tools 🤖  
-- Emulator access layers 🎮  
-- Lightweight routing ⚡  
-- Clean and minimal UI 🖤  
-- No media hosting or storage 📁
+We also create experimental software, investigate new ideas, develop infrastructure, and work on projects simply because they're interesting problems worth solving.
 
-## Projects
+Our broader goals are:
 
-### Proxies
-Frontend‑only and backend‑powered proxy interfaces using Mercury Workshop, Scramjet, Ultraviolet, and other modern technologies. Axis Network does not host or mirror any content.
+🔓 Keep technology open — Build and share open-source software whenever possible.
+🌐 Promote an open internet — Explore technologies that make internet access more resilient.
+🧪 Experiment — Turn interesting ideas into working projects.
+🛠️ Build useful things — Create software, tools, infrastructure, and services.
+📚 Learn and research — Use our projects as opportunities to understand new technologies.
+🤝 Collaborate — Encourage people to contribute, experiment, and build alongside us.
+🚀 Think beyond the usual — We're not afraid to try unconventional approaches.
+🕊️ An Open Internet
+<p align="center"> <img src="assets/no-censorship.svg" alt="Keep the Internet Open" width="700"> </p>
 
-### AI Tools
-Study assistants, utilities, and simple AI interfaces powered by external AI providers.
+The internet is one of the most powerful tools for sharing information and connecting people.
 
-### Emulators
-Frontend access to browser‑based emulators. Axis Network does not host ROMs, BIOS files, or any game content.
+We believe that access to information and communication should be as open and resilient as possible.
 
-## DMCA Notice
+Part of our work therefore involves researching censorship-resistant networking and proxy technologies, while also exploring the wider technical challenges surrounding internet accessibility.
 
-Axis Network does not host, store, upload, or supply any movies, games, ROMs, BIOS files, software, or media. All content accessed through our frontends is served entirely by external third‑party websites. ❗
+But The Axis Network is not just a proxy project.
 
-If you are a copyright holder, do not send DMCA notices to Axis Network.  
-We are not the host or owner of any media.  
-Contact the original third‑party website that is actually hosting the content.
+Our interests and projects can go far beyond networking.
 
-Axis Network only manages UI, routing, and backend proxy logic.  
-We do not own or store any media.
+🔬 What We Work On
 
-## GitHub
+Our projects can cover a variety of areas, including:
 
-All source code and projects are available at:  
-[https://github.com/The-Axis-Network/](https://github.com/The-Axis-Network/) 🔗
+🌐 Networking & internet technologies
+🔓 Censorship resistance & accessibility
+🧪 Experimental protocols
+💻 Software development
+🛠️ Developer tools
+🖥️ Web applications & websites
+⚙️ Infrastructure
+🔍 Security & reliability research
+📡 Communication technologies
+🎨 Creative technical projects
+📚 Documentation & research
+💡 Experimental ideas and prototypes
 
-## License
+This list isn't exhaustive.
 
-This repository follows the license included in the project files.
+If it's interesting, useful, or teaches us something new, we're interested.
+
+🚀 Featured Projects
+
+These are just some of the projects we're working on.
+
+🦦 Lutra
+
+An experimental project used to test and develop technologies within the Axis ecosystem, including the butter-col protocol.
+
+View Lutra →
+
+🧈 butter-col
+
+An experimental proxy protocol built using technologies including Lua, TypeScript, and JavaScript.
+
+butter-col is one of our experiments into alternative approaches to network communication.
+
+View butter-col →
+
+🌐 Axis Network Site
+
+The official website for The Axis Network.
+
+View the Site repository →
+
+🧩 More Than Projects
+
+The Axis Network isn't defined by a single repository.
+
+Our projects will change over time.
+
+Some may become large and established. Others may remain experiments. Some might be abandoned entirely. New ideas will replace old ones.
+
+That's part of the point.
+
+The Axis Network is an environment for building and experimenting with technology — not a single product.
+
+🤝 Open Source
+
+Whenever possible, we build in the open.
+
+Our repositories allow developers, researchers, and curious people to inspect our work, experiment with it, report problems, suggest improvements, and contribute.
+
+Whether you're an experienced developer or someone learning how things work, you're welcome to explore what we're building.
+
+🧠 Experimentation First
+
+Not everything we build is intended to be production-ready.
+
+Some projects exist specifically to answer questions:
+
+Can this work?
+
+Can we build it differently?
+
+What happens if we try this approach?
+
+Can we make it faster, simpler, or more accessible?
+
+That's where many of our projects begin.
+
+🛠️ Built in the Open
+<p align="center"> <img src="https://img.shields.io/badge/Code-Open%20Source-181717?style=for-the-badge&logo=github"> <img src="https://img.shields.io/badge/Ideas-Unrestricted-8b5cf6?style=for-the-badge"> <img src="https://img.shields.io/badge/Internet-Open-00a8ff?style=for-the-badge"> <img src="https://img.shields.io/badge/Build-Experiment-00d084?style=for-the-badge"> </p>
+📡 Find Us
+<p align="center"> <a href="https://github.com/The-Axis-Network"> <img src="https://img.shields.io/badge/GitHub-The%20Axis%20Network-181717?style=for-the-badge&logo=github" alt="GitHub"> </a> </p>
+<p align="center"> <strong>🌎 Build freely. Experiment openly. Keep the internet connected.</strong> </p> <p align="center"> <sub>The Axis Network • Open-source technology, experimentation & research</sub> </p>
